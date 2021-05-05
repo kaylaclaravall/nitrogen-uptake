@@ -1,0 +1,30 @@
+﻿ID,Group,Treatment,Replicate,Germination,Notes
+1,KGTY,Control,A,0.55,
+2,KGTY,Control,B,0.85,
+3,KGTY,NH4NO3,A,0.55,
+4,KGTY,NH4NO3,B,0.6,
+5,KGTY,L-Ala,A,0.65,
+6,KGTY,L-Ala,B,0.5,
+7,KGTY,D-Ala,A,0,
+8,KGTY,D-Ala,B,0,
+9,KGTY,Ala-Ala,A,0.8,
+10,KGTY,Ala-Ala,B,0.85,
+11,KGTY,Ala-Ala-Ala,A,0.65,contaminated
+12,KGTY,Ala-Ala-Ala,B,0.75,
+13,KGTY,Betaine,A,NA,"contaminated, overgrown"
+14,KGTY,Betaine,B,0.65,
+15,KGTY,Carnitine,A,0.6,
+16,KGTY,Carnitine,B,0.7,
+17,KGTY,Ectoine,A,0.6,
+18,KGTY,Ectoine,B,0.8,
+19,KGTY,BSA,A,0.8,bottom half folded over
+20,KGTY,BSA,B,0.7,bottom half folded over
+21,GTEK,Control,A,0.6,
+22,GTEK,NH4NO3,A,0.75,
+23,GTEK,L-Ala,A,0.8,
+24,GTEK,D-Ala,A,0,
+25,GTEK,Ala-Ala,A,0.9,
+26,GTEK,Ala-Ala-Ala,A,0.6,
+27,GTEK,Betaine,A,0.6,
+28,GTEK,Carnitine,A,0.55,
+29,GTEK,Ectoine,A,0.65,
