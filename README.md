@@ -1,3 +1,3 @@
 # Comparing organic and inorganic nitrogen uptake in *Arabidopsis thaliana* seedlings
 
-This project aims to 
+This project aims to test whether nitrogen form has a significant effect on the germination and root development of *Arabidopsis* seedlings. The factor "N form" consists of 10 levels corresponding to the 10 treatments: control (no N), NH4NO3, L-alanine, D-alanine, L-alanine-L-alanine (Ala-Ala), L-alanine-L-alanine-L-alanine (Ala-Ala-Ala), glycine-betaine (betaine), carnitine, ectoine, and bovine serum albumin (BSA) protein. For each of the 10 treatments, 3 replicate plates were prepared. The nitrogen content of each plate was prepared to a final concentration of 10 mM.
